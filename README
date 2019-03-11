@@ -1,0 +1,8 @@
+Extremely rudimentary Android app of an alarm clock that demands the user to complete games/puzzles/math problems
+to snooze the alarm rather than the use of a simple click of a button. Features that must be worked on:
+  - EXTREME CHANGES TO UI DESIGN (Lacks CSS support)
+  - Ability to set multiple alarms
+  - Alarm doesn't even go off if you exit the app lol.. 
+  - Many other things once they come to mind...
+  
+  
